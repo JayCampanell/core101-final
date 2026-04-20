@@ -65,4 +65,4 @@ mediaData.forEach(item => {
 });
 
 // start user near the reich image
-window.scrollTo({ left: 1700, top: 1800, behavior: 'instant' });
+window.scrollTo({ left: 1050, top: 1400, behavior: 'instant' });
