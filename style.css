@@ -52,8 +52,8 @@
 
 /* --- THE WORLD STATE --- */
 #world {
-    width: 15000px;
-    height: 15000px;
+    width: 7000px;
+    height: 5000px;
     position: relative;
     overflow: hidden; 
     transition: filter 1s ease, opacity 1s ease; /* Smooth transition when entering */
